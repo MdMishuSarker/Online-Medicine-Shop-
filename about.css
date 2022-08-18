@@ -1,0 +1,27 @@
+.carousel-inner,
+img {
+  height: 500px;
+}
+
+.picture {
+  height: 900px;
+  background-image: url(g.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  text-transform: initial;
+}
+
+.text2 {
+  font-style: normal;
+  font-size: 22px;
+  text-align: justify;
+}
+.partner {
+  background-color: #24acf2;
+}
+.contact {
+  background-color: #006b9a;
+  text-align: center;
+}
